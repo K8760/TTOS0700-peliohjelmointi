@@ -39,13 +39,15 @@ Tuleeko tentti? Jos, niin tentti Examiassa. Tee kun teet. Tähän lisää infoa 
 | 6 | ... | [Harkat ja Linkit]() |
 | 7 | Unity3D | [Harkat ja Linkit]() |
 | 8 | ... | [Harkat ja Linkit]() |
-| 9 | Tääl o joku hiihtoloma tjsp | [Harkat ja Linkit]() |
+| 9 | **Itseopiskeluviikko (hiihtoloma)** | [Harkat ja Linkit]() |
 | 10 | ... | [Harkat ja Linkit]() |
 | 11 | ... | [Harkat ja Linkit]() |
 | 12 | ... | [Harkat ja Linkit]() |
-| 13 | Harkkatyön aloitus | [Harkat ja Linkit]() |
-| 14 | Harkkatyön työstäminen | [Harkat ja Linkit]() |
-| 15 | Harkkojen palautukset, kurssipalaute | [Harkat ja Linkit]() |
+| 13 | ... | [Harkat ja Linkit]() |
+| 14 | **Pääsiäinen** | ... |
+| 15 | Harkkatyön aloitus (viim.) | [Harkat ja Linkit]() |
+| 16 | Harkkatyön työstäminen | [Harkat ja Linkit]() |
+| 17 | Harkkojen palautukset, kurssipalaute | [Harkat ja Linkit]() |
 
 
 **Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
