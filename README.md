@@ -28,8 +28,8 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 10 | ... | [Harkat ja Linkit]() |
 | 11 | ... | [Harkat ja Linkit]() |
 | 12 | ... | [Harkat ja Linkit]() |
-| 13 | Harkkatyö | [Harkat ja Linkit]() |
-| 14 | ... | [Harkat ja Linkit]() |
+| 13 | Harkkatyön aloitus | [Harkat ja Linkit]() |
+| 14 | Harkkatyön työstäminen | [Harkat ja Linkit]() |
 | 15 | Tentti + Palautukset | [Harkat ja Linkit]() |
 
 
