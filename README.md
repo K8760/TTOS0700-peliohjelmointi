@@ -18,19 +18,19 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | Vko | Aiheet | Harkat ja Linkit |
 |:--------|:----------:|---------|
 | 2 | [Kurssijohdanto](), Github, GIT | [Harkat ja Linkit]() |
-| 3 | Pelimoottorit-slaidisetti, JS-kertaus, Phaser.js getting started | [Harkat ja Linkit]() |
+| 3 | Pelimoottorit-slaidisetti, JS-kertaus, Phaser.js Getting Started | [Harkat ja Linkit]() |
 | 4 | ... | [Harkat ja Linkit]() |
 | 5 | ... | [Harkat ja Linkit]() |
 | 6 | ... | [Harkat ja Linkit]() |
 | 7 | ... | [Harkat ja Linkit]() |
-| 8 | ... | [Harkat ja Linkit]() |
+| 8 | Unity3D | [Harkat ja Linkit]() |
 | 9 | ... | [Harkat ja Linkit]() |
 | 10 | ... | [Harkat ja Linkit]() |
 | 11 | ... | [Harkat ja Linkit]() |
 | 12 | ... | [Harkat ja Linkit]() |
-| 13 | ... | [Harkat ja Linkit]() |
+| 13 | Harkkatyö | [Harkat ja Linkit]() |
 | 14 | ... | [Harkat ja Linkit]() |
-| 15 | ... | [Harkat ja Linkit]() |
+| 15 | Tenntti + Palautukset | [Harkat ja Linkit]() |
 
 
 **Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
