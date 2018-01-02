@@ -9,7 +9,12 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
 ## Kurssimateriaali
 
-...
+- https://phaser.io/learn
+- https://phaser.io/docs
+- https://unity3d.com/learn
+- https://docs.unity3d.com
+- https://www.udemy.com/unitycourse/ (~10e joka toinen viikko)
+
 ## Tentti (?)
 
 Tuleeko tentti? Jos, niin tentti Examiassa. Tee kun teet. Tähän lisää infoa kun aika on kypsä.
