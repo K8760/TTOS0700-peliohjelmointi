@@ -13,7 +13,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
 ## Aikataulu
 
-82,5h työtä. 28..
+82,5h työtä. 28h/35h tunneilla, kotona siis 47,5h työtä.
 
 **HUOM: Aikataulu vasta alustava! Muutoksia tulee.**
 
