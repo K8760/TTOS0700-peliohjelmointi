@@ -10,6 +10,9 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 ## Kurssimateriaali
 
 ...
+## Tentti
+
+Tentti Examiassa. Tee kun teet. Tähän lisää infoa kun aika on kypsä.
 
 ## Aikataulu
 
@@ -32,7 +35,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 12 | ... | [Harkat ja Linkit]() |
 | 13 | Harkkatyön aloitus | [Harkat ja Linkit]() |
 | 14 | Harkkatyön työstäminen | [Harkat ja Linkit]() |
-| 15 | Tentti + Palautukset | [Harkat ja Linkit]() |
+| 15 | Harkkojen palautukset, kurssipalaute | [Harkat ja Linkit]() |
 
 
 **Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
