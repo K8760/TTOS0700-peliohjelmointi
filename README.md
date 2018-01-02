@@ -13,6 +13,8 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
 ## Aikataulu
 
+82,5h työtä.
+
 **HUOM: Aikataulu vasta alustava! Muutoksia tulee.**
 
 | Vko | Aiheet | Harkat ja Linkit |
