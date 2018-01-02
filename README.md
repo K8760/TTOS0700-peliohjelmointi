@@ -30,7 +30,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 12 | ... | [Harkat ja Linkit]() |
 | 13 | Harkkatyö | [Harkat ja Linkit]() |
 | 14 | ... | [Harkat ja Linkit]() |
-| 15 | Tenntti + Palautukset | [Harkat ja Linkit]() |
+| 15 | Tentti + Palautukset | [Harkat ja Linkit]() |
 
 
 **Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
