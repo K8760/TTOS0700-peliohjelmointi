@@ -16,11 +16,21 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 - https://www.udemy.com/unitycourse/ (~10e joka toinen viikko)
 - [Hyvä listä parhaista ilmaisista/halvoista pelidevikursseista](https://www.reddit.com/r/gamedev/comments/74uu6a/i_made_an_evergreen_list_of_the_best_game_dev/)
 
+## Kurssikuvaus
+
+Varsinainen kurssikuvaus tulee myöhemmin. ASIO:n kuvausta saatetaan päivittää hieman..
+
+## Kurssin sisältö
+
+Kurssilla opitaan peliohjelmoinnin perusteet käyttäen pelimoottoria. Opitaan perusteet Phaser.js 2D-pelimoottorista sekä Unity3D 3D-pelimoottorista. Kurssilla opitaan myös GIT-versiohallinnan perusteet.
+
+Kurssilla opitut taidot ovat hyvä pohja, jos valitsee Game Development valinnaismoduulin kolmantena tai neljäntenä vuonna.
+
 ## Suoritus
 
-Kurssilla tehdään yhdessä harjoituksia. Harjoitukset pusketaan GIT-repositorioon. Kaikki yhteiset harjoitukset tulee olla suoritettuna, että kurssin pääse läpi.
+Kurssilla tehdään yhdessä harjoituksia. Kaikki yhteiset harjoitukset pusketaan GIT-repositorioon. Kaikki yhteiset harjoitukset tulee olla suoritettuna, että kurssin pääse läpi.
 
-Myöhemmin kurssilla on itsenäinen harjoitustyö joka muodostaa yksin, tai tentin kanssa, kurssiarvosanan.
+Myöhemmin kurssilla on itsenäinen harjoitustyö joka muodostaa yksin, tai tentin kanssa, kurssiarvosanan. Tämäkin tulee löytyä GIT-repositoriosta. Mikäli jostain syystä ei ole saanut harjoitustyötä toimimaan suoraan Githubissa, käy hätätapauksessa myös S-asema. Saattaa näkyä numerossa.
 
 Lähtökohtaisesti jokainen kerta on kontakti-kerta ellei toisin sovita. Tyypillisesti etä-kertoja kuitenkin tulee kurssilla. Läsnäolo kontaktikerroilla ei välttämätöntä mutta erittäin suotavaa.
 
