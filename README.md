@@ -16,7 +16,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 **HUOM: Aikataulu vasta alustava! Muutoksia tulee.**
 
 | Vko | Aiheet | Harkat ja Linkit |
-|:--------|:----------:|:-----:|---------|
+|:--------|:----------:|---------|
 | 2 | [Kurssijohdanto](), Github, GIT | [Harkat ja Linkit]() |
 | 3 | Pelimoottorit-slaidisetti, JS-kertaus, Phaser.js getting started | [Harkat ja Linkit]() |
 
