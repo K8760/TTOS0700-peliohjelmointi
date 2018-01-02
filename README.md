@@ -16,6 +16,8 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 - https://www.udemy.com/unitycourse/ (~10e joka toinen viikko)
 - [Hyvä listä parhaista ilmaisista/halvoista pelidevikursseista](https://www.reddit.com/r/gamedev/comments/74uu6a/i_made_an_evergreen_list_of_the_best_game_dev/)
 
+![](https://upload.wikimedia.org/wikipedia/commons/1/19/Under_construction_graphic.gif)
+
 ## Kurssikuvaus
 
 Varsinainen kurssikuvaus tulee myöhemmin. ASIO:n kuvausta saatetaan päivittää hieman..
