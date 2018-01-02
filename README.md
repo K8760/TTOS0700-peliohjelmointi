@@ -16,6 +16,10 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 - https://www.udemy.com/unitycourse/ (~10e joka toinen viikko)
 - [Hyvä listä parhaista ilmaisista/halvoista pelidevikursseista](https://www.reddit.com/r/gamedev/comments/74uu6a/i_made_an_evergreen_list_of_the_best_game_dev/)
 
+## Arviointi
+
+50/50 harkat/tentti?
+
 ## Tentti (?)
 
 Tuleeko tentti? Jos, niin tentti Examiassa. Tee kun teet. Tähän lisää infoa kun aika on kypsä.
