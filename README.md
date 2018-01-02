@@ -10,9 +10,9 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 ## Kurssimateriaali
 
 ...
-## Tentti
+## Tentti (?)
 
-Tentti Examiassa. Tee kun teet. Tähän lisää infoa kun aika on kypsä.
+Tuleeko tentti? Jos, niin tentti Examiassa. Tee kun teet. Tähän lisää infoa kun aika on kypsä.
 
 ## Aikataulu
 
