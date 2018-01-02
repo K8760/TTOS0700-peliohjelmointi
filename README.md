@@ -14,6 +14,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 - https://unity3d.com/learn
 - https://docs.unity3d.com
 - https://www.udemy.com/unitycourse/ (~10e joka toinen viikko)
+- [Hyvä listä parhaista ilmaisista/halvoista pelidevikursseista](https://www.reddit.com/r/gamedev/comments/74uu6a/i_made_an_evergreen_list_of_the_best_game_dev/)
 
 ## Tentti (?)
 
