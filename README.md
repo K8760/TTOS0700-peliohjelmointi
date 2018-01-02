@@ -16,6 +16,14 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 - https://www.udemy.com/unitycourse/ (~10e joka toinen viikko)
 - [Hyvä listä parhaista ilmaisista/halvoista pelidevikursseista](https://www.reddit.com/r/gamedev/comments/74uu6a/i_made_an_evergreen_list_of_the_best_game_dev/)
 
+## Suoritus
+
+Kurssilla tehdään yhdessä harjoituksia. Harjoitukset pusketaan GIT-repositorioon. Kaikki yhteiset harjoitukset tulee olla suoritettuna, että kurssin pääse läpi.
+
+Myöhemmin kurssilla on itsenäinen harjoitustyö joka muodostaa yksin, tai tentin kanssa, kurssiarvosanan.
+
+Lähtökohtaisesti jokainen kerta on kontakti-kerta ellei toisin sovita. Tyypillisesti etä-kertoja kuitenkin tulee kurssilla. Läsnäolo kontaktikerroilla ei välttämätöntä mutta erittäin suotavaa.
+
 ## Arviointi
 
 50/50 harkat/tentti?
