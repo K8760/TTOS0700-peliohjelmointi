@@ -37,7 +37,7 @@ Tuleeko tentti? Jos, niin tentti Examiassa. Tee kun teet. Tähän lisää infoa 
 | 4 | ... | [Harkat ja Linkit]() |
 | 5 | ... | [Harkat ja Linkit]() |
 | 6 | ... | [Harkat ja Linkit]() |
-| 7 | Unity3D | [Harkat ja Linkit]() |
+| 7 | Unity3D tästä lähtien? | [Harkat ja Linkit]() |
 | 8 | ... | [Harkat ja Linkit]() |
 | 9 | **Itseopiskeluviikko (hiihtoloma)** | [Harkat ja Linkit]() |
 | 10 | ... | [Harkat ja Linkit]() |
