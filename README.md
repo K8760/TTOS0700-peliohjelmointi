@@ -56,16 +56,16 @@ Tuleeko tentti? Jos, niin tentti Examiassa. Tee kun teet. Tähän lisää infoa 
 |:--------|:----------:|---------|
 | 2 | [Kurssijohdanto](), Github, GIT | [Harkat ja Linkit]() |
 | 3 | Pelimoottorit-slaidisetti, JS-kertaus, Phaser.js Getting Started | [Harkat ja Linkit]() |
-| 4 | ... | [Harkat ja Linkit]() |
-| 5 | ... | [Harkat ja Linkit]() |
-| 6 | ... | [Harkat ja Linkit]() |
+| 4 | Phaser.js | [Harkat ja Linkit]() |
+| 5 | Phaser.js | [Harkat ja Linkit]() |
+| 6 | Phaser.js | [Harkat ja Linkit]() |
 | 7 | Unity3D tästä lähtien? | [Harkat ja Linkit]() |
-| 8 | ... | [Harkat ja Linkit]() |
+| 8 | Unity3D | [Harkat ja Linkit]() |
 | 9 | **Itseopiskeluviikko** | [Harkat ja Linkit]() |
-| 10 | ... | [Harkat ja Linkit]() |
-| 11 | ... | [Harkat ja Linkit]() |
-| 12 | ... | [Harkat ja Linkit]() |
-| 13 | ... | [Harkat ja Linkit]() |
+| 10 | Unity3D | [Harkat ja Linkit]() |
+| 11 | Unity3D | [Harkat ja Linkit]() |
+| 12 | Unity3D, tenttiajat tästä lähtien? | [Harkat ja Linkit]() |
+| 13 | Unity3D | [Harkat ja Linkit]() |
 | 14 | **Pääsiäinen** | ... |
 | 15 | Harkkatyön aloitus (viim.) | [Harkat ja Linkit]() |
 | 16 | Harkkatyön työstäminen | [Harkat ja Linkit]() |
