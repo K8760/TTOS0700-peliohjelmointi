@@ -3,7 +3,7 @@
 Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
 - [Kurssikuvaus ja arviointi]()
-- [Kurssin ASIO-kuvaus]()
+- [Kurssin ASIO-kuvaus](https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTOS0700&knro=&noclose=%20&lan=f)
 - [Optima](h)
 - [JAMK-IT Slack](https://jamk-it.slack.com) ja sieltä kurssikanava: #ttos0700
 
