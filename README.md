@@ -20,36 +20,6 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/19/Under_construction_graphic.gif)
 
-## Kurssikuvaus
-
-Varsinainen kurssikuvaus tulee myöhemmin. ASIO:n kuvausta saatetaan päivittää hieman..
-
-## Kurssin sisältö
-
-Kurssilla opitaan peliohjelmoinnin perusteet käyttäen pelimoottoria. Opitaan perusteet Phaser.js 2D-pelimoottorista sekä Unity3D 3D-pelimoottorista. Kurssilla opitaan myös GIT-versiohallinnan perusteet.
-
-Kurssilla opitut taidot ovat hyvä pohja, jos valitsee Game Development valinnaismoduulin kolmantena tai neljäntenä vuonna.
-
-## Suoritus
-
-Kurssilla tehdään yhdessä harjoituksia. Kaikki yhteiset harjoitukset pusketaan GIT-repositorioon. Kaikki yhteiset harjoitukset tulee olla suoritettuna, että kurssin pääse läpi.
-
-Myöhemmin kurssilla on itsenäinen harjoitustyö joka muodostaa yksin, tai tentin kanssa, kurssiarvosanan. Tämäkin tulee löytyä GIT-repositoriosta. Mikäli jostain syystä ei ole saanut harjoitustyötä toimimaan suoraan Githubissa, käy hätätapauksessa myös S-asema. Saattaa näkyä numerossa.
-
-Lähtökohtaisesti jokainen kerta on kontakti-kerta ellei toisin sovita. Tyypillisesti etä-kertoja kuitenkin tulee kurssilla. Läsnäolo kontaktikerroilla ei välttämätöntä mutta erittäin suotavaa.
-
-## Arviointi
-
-50/50 harkat/tentti?
-
-## Tentti (?)
-
-Tuleeko tentti? Jos, niin tentti Examiassa. Tee kun teet. Tähän lisää infoa kun aika on kypsä.
-
-## Aikataulu
-
-82,5h työtä. 28h/35h tunneilla, kotona siis 47,5h työtä.
-
 **HUOM: Aikataulu vasta alustava! Muutoksia tulee.**
 
 | Vko | Aiheet | Harkat ja Linkit |
