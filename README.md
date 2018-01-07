@@ -22,7 +22,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
 | Vko | Aiheet | Harkat ja Linkit |
 |:--------|:----------:|---------|
-| 2 | [Kurssijohdanto](https://docs.google.com/presentation/d/1cPEgvVs9oXw9jk1cfYccheN6dSjRImRP_7rU2XETyTU/edit?usp=sharing), Github, GIT | [Harkat ja Linkit]() |
+| 2 | [Kurssijohdanto](https://docs.google.com/presentation/d/1cPEgvVs9oXw9jk1cfYccheN6dSjRImRP_7rU2XETyTU/edit?usp=sharing), Github, GIT | [Harkat ja Linkit](https://github.com/JAMK-IT/TTOS0700-peliohjelmointi/wiki/harkat-vko2) |
 | 3 | Pelimoottorit-slaidisetti, JS-kertaus, Phaser.js Getting Started | [Harkat ja Linkit]() |
 | 4 | Phaser.js | [Harkat ja Linkit]() |
 | 5 | Phaser.js | [Harkat ja Linkit]() |
