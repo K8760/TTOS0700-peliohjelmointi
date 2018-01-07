@@ -2,9 +2,9 @@
 
 Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 
-- [Kurssikuvaus ja arviointi]()
+- [Kurssikuvaus ja arviointi](https://github.com/JAMK-IT/TTOS0700-peliohjelmointi/wiki/kurssikuvaus)
 - [Kurssin ASIO-kuvaus](https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=TTOS0700&knro=&noclose=%20&lan=f)
-- [Optima](h)
+- [Optima](https://optima.jamk.fi)
 - [JAMK-IT Slack](https://jamk-it.slack.com) ja sieltä kurssikanava: #ttos0700
 - [EXAM-studion ohjeistus](http://oppimateriaalit.jamk.fi/examstudio/)
 
