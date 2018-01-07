@@ -18,8 +18,6 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 - [Hyvä listä parhaista ilmaisista/halvoista pelidevikursseista](https://www.reddit.com/r/gamedev/comments/74uu6a/i_made_an_evergreen_list_of_the_best_game_dev/)
 - [Unity in Action: Multiplatform Game Development in C#](https://www.amazon.com/Unity-Action-Multiplatform-game-development/dp/1617294969) -kirjoja löytyy kirjastosta!
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/19/Under_construction_graphic.gif)
-
 **HUOM: Aikataulu vasta alustava! Muutoksia tulee.**
 
 | Vko | Aiheet | Harkat ja Linkit |
