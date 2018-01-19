@@ -25,19 +25,19 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 2 | [Kurssijohdanto](https://docs.google.com/presentation/d/1cPEgvVs9oXw9jk1cfYccheN6dSjRImRP_7rU2XETyTU/edit?usp=sharing), GIT, Github | [Harkat ja Linkit](https://github.com/JAMK-IT/TTOS0700-peliohjelmointi/wiki/harkat-vko2) |
 | 3 | [Pelimoottorit yleisesti](https://docs.google.com/presentation/d/1TZtzhRHBWhjZ9yYc5ufRXX33tV1CSFO7UuUEDOo6DQs/edit?usp=sharing), [JS-kertaus](https://www.codecademy.com/learn/introduction-to-javascript), [Phaser.js aloittelu](https://phaser.io/tutorials/making-your-first-phaser-game) | [Harkat ja Linkit](https://github.com/JAMK-IT/TTOS0700-peliohjelmointi/wiki/harkat-vko3) |
 | 4 | **Ei kontaktia!** [PhaserJS-verkkokurssi](https://www.udemy.com/making-games-with-phaser) | [Harkat ja Linkit](https://github.com/JAMK-IT/TTOS0700-peliohjelmointi/wiki/harkat-vko4) |
-| 5 | **Ei kontaktia!** [PhaserJS-verkkokurssi](https://www.udemy.com/making-games-with-phaser) | [Harkat ja Linkit]() |
-| 6 | Phaser.js | [Harkat ja Linkit]() |
-| 7 | Unity3D tästä lähtien? | [Harkat ja Linkit]() |
-| 8 | Unity3D | [Harkat ja Linkit]() |
+| 5 | **Ei kontaktia!** [PhaserJS-verkkokurssi](https://www.udemy.com/making-games-with-phaser) | Harkat ja Linkit |
+| 6 | Phaser.js | Harkat ja Linkit |
+| 7 | Unity3D tästä lähtien? | Harkat ja Linkit |
+| 8 | Unity3D | Harkat ja Linkit |
 | 9 | **Itseopiskeluviikko** | [Harkat ja Linkit]() |
-| 10 | Unity3D | [Harkat ja Linkit]() |
-| 11 | Unity3D | [Harkat ja Linkit]() |
+| 10 | Unity3D | Harkat ja Linkit |
+| 11 | Unity3D | Harkat ja Linkit |
 | 12 | Unity3D, tenttiajat tästä lähtien? | [Harkat ja Linkit]() |
-| 13 | Unity3D | [Harkat ja Linkit]() |
+| 13 | Unity3D | Harkat ja Linkit |
 | 14 | **Pääsiäinen** | ... |
-| 15 | Harkkatyön aloitus (viim.) | [Harkat ja Linkit]() |
-| 16 | Harkkatyön työstäminen | [Harkat ja Linkit]() |
-| 17 | Harkkojen palautukset, kurssipalaute | [Harkat ja Linkit]() |
+| 15 | Harkkatyön aloitus (viim.) | Harkat ja Linkit |
+| 16 | Harkkatyön työstäminen | Harkat ja Linkit |
+| 17 | Harkkojen palautukset, kurssipalaute | Harkat ja Linkit |
 
 
 **Hae ehdottomasti Githubin opiskelijapaketti käyttöösi:** https://education.github.com/pack
