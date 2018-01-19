@@ -29,10 +29,10 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 6 | Phaser.js | Harkat ja Linkit |
 | 7 | Unity3D tästä lähtien? | Harkat ja Linkit |
 | 8 | Unity3D | Harkat ja Linkit |
-| 9 | **Itseopiskeluviikko** | [Harkat ja Linkit]() |
+| 9 | **Itseopiskeluviikko** | Harkat ja Linkit |
 | 10 | Unity3D | Harkat ja Linkit |
 | 11 | Unity3D | Harkat ja Linkit |
-| 12 | Unity3D, tenttiajat tästä lähtien? | [Harkat ja Linkit]() |
+| 12 | Unity3D, tenttiajat tästä lähtien? | Harkat ja Linkit |
 | 13 | Unity3D | Harkat ja Linkit |
 | 14 | **Pääsiäinen** | ... |
 | 15 | Harkkatyön aloitus (viim.) | Harkat ja Linkit |
