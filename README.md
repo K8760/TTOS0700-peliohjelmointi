@@ -28,7 +28,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 5 | **Ei kontaktia!** [PhaserJS-verkkokurssi](https://www.udemy.com/making-games-with-phaser) | Harkat ja Linkit |
 | 6 | Phaser.js | Harkat ja Linkit |
 | 7 | Unity3D tästä lähtien? | Harkat ja Linkit |
-| 8 | Unity3D | Harkat ja Linkit |
+| 8 | Unity3D, puolivälipalaute | Harkat ja Linkit |
 | 9 | **Itseopiskeluviikko** | Harkat ja Linkit |
 | 10 | Unity3D | Harkat ja Linkit |
 | 11 | Unity3D | Harkat ja Linkit |
