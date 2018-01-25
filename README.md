@@ -25,7 +25,7 @@ Opettaja: Paavo Nelimarkka - paavo.nelimarkka@jamk.fi - D555
 | 2 | [Kurssijohdanto](https://docs.google.com/presentation/d/1cPEgvVs9oXw9jk1cfYccheN6dSjRImRP_7rU2XETyTU/edit?usp=sharing), GIT, Github | [Harkat ja Linkit](https://github.com/JAMK-IT/TTOS0700-peliohjelmointi/wiki/harkat-vko2) |
 | 3 | [Pelimoottorit yleisesti](https://docs.google.com/presentation/d/1TZtzhRHBWhjZ9yYc5ufRXX33tV1CSFO7UuUEDOo6DQs/edit?usp=sharing), [JS-kertaus](https://www.codecademy.com/learn/introduction-to-javascript), [Phaser.js aloittelu](https://phaser.io/tutorials/making-your-first-phaser-game) | [Harkat ja Linkit](https://github.com/JAMK-IT/TTOS0700-peliohjelmointi/wiki/harkat-vko3) |
 | 4 | **Ei kontaktia!** [PhaserJS-verkkokurssi](https://www.udemy.com/making-games-with-phaser) | [Harkat ja Linkit](https://github.com/JAMK-IT/TTOS0700-peliohjelmointi/wiki/harkat-vko4) |
-| 5 | **Ei kontaktia!** [PhaserJS-verkkokurssi](https://www.udemy.com/making-games-with-phaser) | Harkat ja Linkit |
+| 5 | **Ei kontaktia!** [PhaserJS-verkkokurssi](https://www.udemy.com/making-games-with-phaser) | [Harkat ja Linkit](https://github.com/JAMK-IT/TTOS0700-peliohjelmointi/wiki/harkat-vko5) |
 | 6 | Phaser.js | Harkat ja Linkit |
 | 7 | Unity3D tästä lähtien? | Harkat ja Linkit |
 | 8 | Unity3D, puolivälipalaute | Harkat ja Linkit |
